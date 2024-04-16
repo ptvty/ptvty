@@ -5,24 +5,19 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ptvty is short for Positivity ✨
 
-Check out My public repositories
+My open-source projects:
 
-
-#### [𝄜 Partial CSV Reader](https://github.com/ptvty/partial-csv-reader)
-
+- **[Partial CSV Reader](https://github.com/ptvty/partial-csv-reader)** 
 A library written in TypeScript to parse any part of a large CSV file
 
-#### [🖌️ Photoshop Worker](https://github.com/ptvty/photoshop-worker)
-
+- **[Photoshop Worker](https://github.com/ptvty/photoshop-worker)**
 A utility to automate Photoshop tasks using Photoshop's ExtendScript (JSX) and a web UI
 
-#### [⏲️ Desktop Activity Tracker](https://github.com/ptvty/desktop-activity-tracker)
-
+- **[Desktop Activity Tracker](https://github.com/ptvty/desktop-activity-tracker)**
 A CLI app written in Python to track your time while using your computer
  
-#### [Windows File Read Events](https://github.com/ptvty/WinFileReadEvents)
-
-A Windows CLI utility written in C# to watch the file system for file read events and a [TypeScript wrapper](https://github.com/ptvty/file-read-events)
+- **[Windows File Read Events](https://github.com/ptvty/WinFileReadEvents)**
+A Windows CLI utility written in C# to watch the file system for file read events + a [TypeScript wrapper](https://github.com/ptvty/file-read-events)
 
 
 <!---
