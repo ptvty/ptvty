@@ -10,6 +10,9 @@ My open-source projects:
 - **[Partial CSV Reader](https://github.com/ptvty/partial-csv-reader)** 
 A library written in TypeScript to parse any part of a large CSV file
 
+- **[react-circle-wave](https://github.com/ptvty/react-circle-wave)**
+A React component to create a visually appealing circle with an animated wave effect
+
 - **[Photoshop Worker](https://github.com/ptvty/photoshop-worker)**
 A utility to automate Photoshop tasks using Photoshop's ExtendScript (JSX) and a web UI
 
