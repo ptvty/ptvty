@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [ptvty](https://github.com/ptvty/ptvty), a full stack software developer
+- 👋 Hi, I’m [Mohammad](https://github.com/ptvty/ptvty), a full stack software developer
 - 👀 I’m interested in open-source software, scalable systems, and user-centered design
 - 🌱 I’m currently learning [LangChain](https://github.com/langchain-ai/langchain)
 - 📫 Reach me at ptvty at proton dot me
